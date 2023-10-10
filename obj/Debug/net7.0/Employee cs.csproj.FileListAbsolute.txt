@@ -1,0 +1,15 @@
+C:\projects\C#\employee cs\bin\Debug\net7.0\Employee cs.exe
+C:\projects\C#\employee cs\bin\Debug\net7.0\Employee cs.deps.json
+C:\projects\C#\employee cs\bin\Debug\net7.0\Employee cs.runtimeconfig.json
+C:\projects\C#\employee cs\bin\Debug\net7.0\Employee cs.dll
+C:\projects\C#\employee cs\bin\Debug\net7.0\Employee cs.pdb
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.csproj.AssemblyReference.cache
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.AssemblyInfoInputs.cache
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.AssemblyInfo.cs
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.csproj.CoreCompileInputs.cache
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.dll
+C:\projects\C#\employee cs\obj\Debug\net7.0\refint\Employee cs.dll
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.pdb
+C:\projects\C#\employee cs\obj\Debug\net7.0\Employee cs.genruntimeconfig.cache
+C:\projects\C#\employee cs\obj\Debug\net7.0\ref\Employee cs.dll
